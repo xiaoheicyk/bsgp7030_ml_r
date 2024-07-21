@@ -12,8 +12,6 @@ dependencies:
   - r-tidyverse
   - r-shiny
   - r-ggpubr
-  - r-kernlab
-  - r-randomForest
   - pip
   - pip:
     - pandas
