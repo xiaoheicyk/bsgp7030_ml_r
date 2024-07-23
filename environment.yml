@@ -12,6 +12,7 @@ dependencies:
   - r-tidyverse
   - r-shiny
   - r-ggpubr
+  - r-kernlab
   - pip
   - pip:
     - pandas
