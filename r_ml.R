@@ -1,6 +1,7 @@
 library(caret)
 library(kernlab)
 library(randomForest)
+library(ggplot2)
 
 #Load data
 # attach the iris dataset to the environment
