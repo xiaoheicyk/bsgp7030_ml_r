@@ -14,6 +14,7 @@ dependencies:
   - r-ggpubr
   - r-kernlab
   - r-randomForest
+  - r-ellipse
   - pip
   - pip:
     - pandas
